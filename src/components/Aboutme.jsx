@@ -38,7 +38,7 @@ function Aboutme() {
           <div className="lg:ml-19 text-left lg:w-180">
             In addition, I am actively learning Data Structures and Algorithms
             (DSA) using Java to strengthen my core problem-solving skills. I
-            have solved over 160+ LeetCode problems as part of various LeetCode
+            have solved over 300+ LeetCode problems as part of various LeetCode
             batches, which has further enhanced my analytical and coding
             abilities. I am passionate about turning innovative ideas into
             impactful applications through technology.
