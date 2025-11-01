@@ -24,24 +24,70 @@ function Aboutme() {
           transition={{ duration: 1, delay: 0.4 }}
           className="w-full lg:w-1/2 mt-15"
         >
-          <p className="text-left -mt-4 lg:mt-0  lg:w-180 lg:ml-17">
-            I am currently pursuing a Bachelor of Computer Applications (BCA),
-            where I am building a strong foundation in programming,
-            problem-solving, and both frontend and backend technologies to shape
-            a successful career in the tech industry. I have completed a
-            comprehensive MERN stack course on Udemy, gaining hands-on
-            experience with MongoDB, Express.js, React, and Node.js. Currently,
-            I’m applying this knowledge by working on real-world projects to
-            deepen my practical understanding.
+          <p className="text-left -mt-4 lg:mt-0 lg:w-180 lg:ml-17">
+            I am currently pursuing my{" "}
+            <span className="font-semibold text-emerald-400">
+              final year of Bachelor of Computer Applications (BCA)
+            </span>{" "}
+            at{" "}
+            <span className="font-semibold text-cyan-400">
+              Omega Business School
+            </span>
+            , where I have built a strong foundation in{" "}
+            <span className="font-semibold text-emerald-400">
+              programming, problem-solving
+            </span>
+            , and modern{" "}
+            <span className="font-semibold text-cyan-400">
+              frontend and backend technologies
+            </span>
+            . I have completed a{" "}
+            <span className="font-semibold text-emerald-400">
+              comprehensive MERN Stack course on Udemy
+            </span>
+            , gaining hands-on experience with{" "}
+            <span className="font-semibold text-cyan-400">
+              MongoDB, Express.js, React, and Node.js
+            </span>
+            . Recently, I’ve applied this knowledge by working on projects such
+            as an{" "}
+            <span className="font-semibold text-emerald-300 underline underline-offset-4 decoration-2 decoration-emerald-500">
+              AI Writing Assistant
+            </span>
+            ,{" "}
+            <span className="font-semibold text-emerald-300 underline underline-offset-4 decoration-2 decoration-emerald-500">
+              FarmFresh eCommerce platform
+            </span>
+            , and{" "}
+            <span className="font-semibold text-emerald-300 underline underline-offset-4 decoration-2 decoration-emerald-500">
+              ConnectHub chat application
+            </span>{" "}
+            to deepen my practical understanding.
           </p>
 
           <div className="lg:ml-19 text-left lg:w-180">
-            In addition, I am actively learning Data Structures and Algorithms
-            (DSA) using Java to strengthen my core problem-solving skills. I
-            have solved over 300+ LeetCode problems as part of various LeetCode
-            batches, which has further enhanced my analytical and coding
-            abilities. I am passionate about turning innovative ideas into
-            impactful applications through technology.
+            In addition, I am strengthening my problem-solving abilities through{" "}
+            <span className="font-semibold text-cyan-400">
+              Data Structures and Algorithms (DSA)
+            </span>{" "}
+            using <span className="font-semibold text-cyan-400">Java</span> and
+            have solved{" "}
+            <span className="font-semibold text-emerald-400">
+              300+ LeetCode problems
+            </span>
+            . These challenges have enhanced my{" "}
+            <span className="font-semibold text-cyan-300">
+              analytical and coding skills
+            </span>
+            . I am passionate about building{" "}
+            <span className="font-semibold text-emerald-400">
+              innovative and impactful applications
+            </span>{" "}
+            and continuously growing as a{" "}
+            <span className="font-semibold text-cyan-300">
+              software developer
+            </span>
+            .
           </div>
         </motion.div>
       </div>
